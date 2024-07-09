@@ -24,7 +24,7 @@ go mod tidy
 ```
 
 #### 3. Enable MongoDB Database
-Ensure you have MongoDBCompass installed and running. To install PostgreSQL, visit the [official MongoDB website](https://www.mongodb.com/docs/manual/installation/) and follow the installation instructions. Commanly was running at [localhost:27017](http://localhost:27017).
+Ensure you have MongoDBCompass installed and running. To install PostgreSQL, visit the [official MongoDB website](https://www.mongodb.com/docs/manual/installation/) and follow the installation instructions. It will generally run on [localhost:27017](http://localhost:27017).
 
 #### 4. Complete All Data Requirements in ``.env``
 Complete all variables according to your preferences.
