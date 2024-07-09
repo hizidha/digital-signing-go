@@ -1,0 +1,11 @@
+# Ignore the .vscode directory and its contents
+.vscode/*
+
+# Ignore Go module files
+*.mod
+
+# Ignore Go sum files
+*.sum
+
+# Ignore all text files
+*.txt
